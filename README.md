@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daraarii
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning SQL, Python, C, Js
+- 🌱 I’m currently learning Python and Machine Learning
 - 💞️ I’m looking to collaborate on data scientist project
 - 📫 How to reach me daraaresti@gmail.com
 - 😄 Pronouns: Dara
